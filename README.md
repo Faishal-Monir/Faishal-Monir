@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faishal-monir&label=Profile%20views&color=0e75b6&style=flat" alt="faishal-monir" /> </p>
 
-- 🌱 I’m currently learning **lINUX**
+- 🌱 I’m currently learning **Linux**
 
 - 💬 Ask me about **WEB-DEVELOPMENT,PYTHON**
 
