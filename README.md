@@ -1,14 +1,14 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://beacons.ai/faishalmonir?fbclid=IwAR0oq-z2xvUCVoTAEhtR3I5rwV4vQwOehPR_s81rhIIeodGXuXb-oSEbelw)
 <h1 align="center">Hi 👋, I'm Faishal Monir</h1>
-<h3 align="center">Depressed Coder from BD!</h3>
+<h3 align="center">An Undergrad Student!</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M0YjMxZDY0OTUxNGFmNmQ1ZjBkMTE1YmJkZDJmZTA4NDg3MzU1YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faishal-monir&label=Profile%20views&color=0e75b6&style=flat" alt="faishal-monir" /> </p>
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **DBMS**
 
-- 💬 Ask me about **WEB-DEVELOPMENT,PYTHON**
+- 💬 Ask me about **Python,Web-dev(Learner)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
